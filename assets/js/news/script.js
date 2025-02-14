@@ -1,4 +1,4 @@
-// Загрузка новостей из JSON файла
+// Загрузка новостей из JSON файла 233
 async function loadNews() {
     const response = await fetch('news.json');
     const news = await response.json();

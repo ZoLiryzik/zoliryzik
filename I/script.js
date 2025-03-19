@@ -1,7 +1,7 @@
 // Константы для получения аватарки и имени пользователя
-const discordId = "DISCORD_USER_ID"; // Вставьте Discord ID пользователя
-const avatarHash = "AVATAR_HASH"; // Вставьте хэш аватарки пользователя
-const authorName = "Имя Пользователя"; // Вставьте имя пользователя
+const discordId = "760400133212602369"; // Вставьте Discord ID пользователя
+const avatarHash = "4f770fb111611dad6e225638827df19c"; // Вставьте хэш аватарки пользователя
+const authorName = "ZoLiryzik"; // Вставьте имя пользователя
 
 // Обновляем аватарку и имя
 const avatarUrl = `https://cdn.discordapp.com/avatars/${discordId}/${avatarHash}.png`;
